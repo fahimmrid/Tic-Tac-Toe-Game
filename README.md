@@ -3,11 +3,11 @@
  
  ![](images/image1.png)
 
-In the case of one of the player wins...(on the last play)
+In the case of one of the player wins... (middle of game). All corner cases considered 
 
  ![](images/image2.png)
 
-In the case of a Tie. Just to show a few different cases considered  
+In the case of a Tie (on the last play). Just to show a few different cases considered  
 
 
  ![](images/image3.png)
