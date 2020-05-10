@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
- ## Colorful and bulletproof interactive Tic Tae Toe game to be played simultaneously on the Console 
+ ### Colorful and bulletproof interactive Tic Tae Toe game to be played simultaneously on the Console 
  
  ![](images/image1.png)
 
