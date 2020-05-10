@@ -61,7 +61,7 @@ def start_game():  # where the game is started and executed
         while symbol not in ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]:
             # so if someone presses a letter and then presses a letter again by mistake..
             # handle multiple (non-int) isses repeatdly unlike a conditional statement
-            symbol = input ("Error: Select only from 0-8 (PRESS 9 to display the rules) : ")
+            symbol = input ("Error: Select only from 0-8 : ")
         try:
             symbol = int (symbol)
         except TypeError:
